@@ -1,0 +1,1 @@
+This project create scripts for the project variables
